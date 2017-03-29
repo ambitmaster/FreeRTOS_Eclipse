@@ -26,4 +26,4 @@ From the dropdown-menu 'Work with' select:
 CDT - http://download.eclipse.org/tools/cdt/releases/9.2
 
 Now expand the CDT Optional Feature and select:
-- 'C / C++ GDB Hardware Debugging.
+- C / C++ GDB Hardware Debugging.
